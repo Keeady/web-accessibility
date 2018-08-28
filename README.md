@@ -1,7 +1,7 @@
 # Web Accessibility is for everyone
 When talking about web accessibility, the first thing which comes to mind is visual
-impairement. Although that's mostly true, we all need the web to be accessible regardless of 
-any impairment whether temporary or permanent or  wether we prefer to use keyboard over mouse
+impairment. Although that's mostly true, we all need the web to be accessible regardless of 
+any impairment whether temporary or permanent or  whether we prefer to use keyboard over mouse
 
 - Temporary impairment: 
     - Fell and injured arm
@@ -17,6 +17,7 @@ any impairment whether temporary or permanent or  wether we prefer to use keyboa
 - Everyday circumstances:
      - Holding a toddler in one arm while working from home
      - Holding the phone in one hand while placing order online
+     - Sitting in a loud room, a video with captions would make a difference
 
 As a designer, developer, our goal is to reach far wide as possible to our target audience and
     making their experience online smooth and less frustrating.
